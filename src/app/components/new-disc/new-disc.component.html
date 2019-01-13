@@ -1,0 +1,7 @@
+<h1>Disc creation</h1>
+<form [formGroup]="discForm" novalidate>
+    <div class="form-group">
+        <label>First Name</label>
+        <input type="number" formControlName="year" class="form-control" [ngClass]="{ 'is-invalid': f.year.errors }" /> 
+    </div>
+</form>

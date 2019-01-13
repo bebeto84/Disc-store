@@ -1,0 +1,3 @@
+<app-header [discCounter]="(discs$ | async)?.length"></app-header>
+<app-subheader ></app-subheader>
+<app-disc-list [discs]="discs$ | async" ></app-disc-list>

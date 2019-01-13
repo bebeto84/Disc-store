@@ -1,0 +1,40 @@
+[
+    {
+        "id": "1",
+        "name": "Get A Grip",
+        "imageUrl": "/assets/images/aerosmith_getagrip.jpg",
+        "year": 1993,
+        "artist": "Aerosmith"
+    }, {
+        "id": "2",
+        "name": "Aerosmith",
+        "imageUrl": "/assets/images/aerosmith_aerosmith.png",
+        "year": 1973,
+        "artist": "Aerosmith"
+    }, {
+        "id": "3",
+        "name": "Drones",
+        "imageUrl": "/assets/images/Muse_drones.jpg",
+        "year": 2015,
+        "artist": "Muse"
+    }, {
+        "id": "4",
+        "name": "The Resistance",
+        "imageUrl": "/assets/images/Muse_Resistance.png",
+        "year": 2009,
+        "artist": "Muse"
+    }, {
+        "id": "5",
+        "name": "Tonight",
+        "imageUrl": "/assets/images/FF_tonight.jpg",
+        "year": 2009,
+        "artist": "Franz Ferdinand"
+    }, {
+        "id": "6",
+        "name": "You could have it so much better",
+        "imageUrl": "/assets/images/FF_you-could.png",
+        "year": 2005,
+        "artist": "Franz Ferdinand"
+    }
+
+]

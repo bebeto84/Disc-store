@@ -1,0 +1,10 @@
+:host {
+    background-color: #F1F1F1;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    .brandName {
+        text-align: center;
+        font-size: 2em;
+    }
+}
